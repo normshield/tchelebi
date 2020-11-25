@@ -1,4 +1,4 @@
-## Tchelebi, Internet Wide Scanning Project
+## Tchelebi, Internet-Wide Scanning Project
 
 NormShield, Inc. is the leading provider of cyber risk quantification software and has substantial experience working with large corporations to help establish and optimize quantitative risk management programs. NormShield enables enterprises to monitor their external cyber risk posture, and perform non-intrusive cyber risk assessments of their suppliers, subsidiaries, and target acquisitions. Easy to understand scorecards provide letter-grades by risk category with rich underlying data on exactly how to mitigate each risk in priority order. NormShield enables enterprises to assess and monitor their own and their supply chain’s external cyber risk posture by performing non-intrusive cyber risk assessments and converting the data into the form of a scorecard. 
     
